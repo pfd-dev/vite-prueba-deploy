@@ -1,0 +1,1 @@
+console.log("saludos desde la consola Vite!")
